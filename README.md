@@ -62,9 +62,9 @@ Below will be the different fonts and font sizes I have used in the site.
 
 - The Navigation bar across the top of all three pages are linked to their respective names.
 
-- *Home* will take you the the index page.
-- *Hacks* will take you to the page containing the life hacks.
-- *Contact* will take you to the page with the feedback form where you fill in your email.
+- _Home_ will take you the the index page.
+- _Hacks_ will take you to the page containing the life hacks.
+- _Contact_ will take you to the page with the feedback form where you fill in your email.
 
 - The Footer element contains hyper linked social buttons to Facebook, Twitter and Instagram, all labelled appropriately.
 
@@ -93,13 +93,13 @@ Below will be the different fonts and font sizes I have used in the site.
 
 - To make the site more user friendly and accessible, I added alternative text for all images for the screen reader applications.
 
-- I have made use of semantic HTML elements, such as : *footer*, *section* and *navigation* to make site more organised and each page easy accessible.
+- I have made use of semantic HTML elements, such as : _footer_, _section_ and _navigation_ to make site more organised and each page easy accessible.
 
 ## Deplotment
 
-- My Life Hacks site was deployed to Github (https://github.com) pages by following these steps.
+- My Life Hacks site was deployed to Github (<https://github.com>) pages by following these steps.
 
-1. Go to the Project-1 repository (https://github.com/ReeceP22/Project-1).
+1. Go to the Project-1 repository (<https://github.com/ReeceP22/Project-1>).
 2. Click the "settings" tab on the top left to open it.
 3. On the left hand side, under "code and automation", click "pages".
 4. Underneath "build and deployment" use the dropdown menu to select "deploy from a branch".
@@ -116,7 +116,7 @@ Below will be the different fonts and font sizes I have used in the site.
 
 ### Acknowledgement
 
-- A massive thank you to *Spencer Barriball, my mentor at Code Institute*, for providing me with help and advice on how to better the code I had done and teaching me new ways to use it.
+- A massive thank you to _Spencer Barriball, my mentor at Code Institute_, for providing me with help and advice on how to better the code I had done and teaching me new ways to use it.
 
 ### Code Used
 
