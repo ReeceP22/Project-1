@@ -37,7 +37,6 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-
 }
 
 h1,
@@ -49,7 +48,7 @@ h2 {
 }
 
 figure {
-    margin-top: 40px;
+    margin: 40px 0;
 }
 
 p {
@@ -72,4 +71,40 @@ p {
 
 .submit {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.hackimage {
+    margin: 2rem auto;
+}
+
+/* Footer styling */
+footer {
+    background-color: #333;
+    /* Dark background */
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    /* Evenly space the icons */
+}
+
+.social-icon {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+/* Responsive design */
+@media (min-width: 768px) {
+    figure {
+        margin: 40px;
+    }
+
+    .social-icon {
+        font-size: 20px auto;
+    }
 }
